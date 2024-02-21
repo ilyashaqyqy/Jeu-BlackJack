@@ -1,0 +1,9 @@
+com\mycompany\blackjackjeu\Main.class
+com\mycompany\blackjackjeu\Types.class
+com\mycompany\blackjackjeu\Joueur.class
+com\mycompany\blackjackjeu\PaquetCartes.class
+com\mycompany\blackjackjeu\Personne.class
+com\mycompany\blackjackjeu\Valeur.class
+com\mycompany\blackjackjeu\BlackJackJeu.class
+com\mycompany\blackjackjeu\Croupier.class
+com\mycompany\blackjackjeu\Carte.class

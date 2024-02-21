@@ -2,17 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.blackjack;
+package com.mycompany.blackjackjeu;
 
 import java.util.Scanner;
 
 /**
  *
- * @author ilyass
+ * @author user
  */
-public class Blackjack {
+public class BlackJackJeu {
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
 
         PaquetCartes paquet = new PaquetCartes();
         paquet.creatPaquetCartes();
@@ -38,7 +38,6 @@ public class Blackjack {
             joueur.voirCartes();
             croupier.voirCartes();
 
-            // Choix du joueur entre Hit et Stand
             while (true) {
                 System.out.println("Choisissez une action :");
                 System.out.println("1. Hit");
